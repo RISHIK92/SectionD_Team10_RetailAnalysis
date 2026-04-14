@@ -7,7 +7,7 @@
 
 ## Before You Start
 
-1. Rename the repository using the format `SectionName_TeamID_ProjectName`.
+1. Rename the repository using the format `SectionA_Team04_RetailAnalysis`.
 2. Fill in the project details and team table below.
 3. Add the raw dataset to `data/raw/`.
 4. Complete the notebooks in order from `01` to `05`.
@@ -35,26 +35,26 @@ If you are working in Google Colab:
 
 ## Project Overview
 
-| Field | Details |
-|---|---|
-| **Project Title** | _To be filled by team_ |
-| **Sector** | _e.g. Retail, Finance, Healthcare, EdTech_ |
-| **Team ID** | _e.g. DVA-B1-T3_ |
-| **Section** | _To be filled by team_ |
-| **Faculty Mentor** | _To be filled by team_ |
-| **Institute** | Newton School of Technology |
-| **Submission Date** | _To be filled by team_ |
+| Field               | Details                                    |
+| ------------------- | ------------------------------------------ |
+| **Project Title**   | _To be filled by team_                     |
+| **Sector**          | _e.g. Retail, Finance, Healthcare, EdTech_ |
+| **Team ID**         | _e.g. DVA-B1-T3_                           |
+| **Section**         | _To be filled by team_                     |
+| **Faculty Mentor**  | _To be filled by team_                     |
+| **Institute**       | Newton School of Technology                |
+| **Submission Date** | _To be filled by team_                     |
 
 ### Team Members
 
-| Role | Name | GitHub Username |
-|---|---|---|
-| Project Lead | _Name_ | `github-handle` |
-| Data Lead | _Name_ | `github-handle` |
-| ETL Lead | _Name_ | `github-handle` |
-| Analysis Lead | _Name_ | `github-handle` |
-| Visualization Lead | _Name_ | `github-handle` |
-| Strategy Lead | _Name_ | `github-handle` |
+| Role                 | Name   | GitHub Username |
+| -------------------- | ------ | --------------- |
+| Project Lead         | _Name_ | `github-handle` |
+| Data Lead            | _Name_ | `github-handle` |
+| ETL Lead             | _Name_ | `github-handle` |
+| Analysis Lead        | _Name_ | `github-handle` |
+| Visualization Lead   | _Name_ | `github-handle` |
+| Strategy Lead        | _Name_ | `github-handle` |
 | PPT and Quality Lead | _Name_ | `github-handle` |
 
 ---
@@ -75,23 +75,23 @@ _Describe the sector context, the decision-maker this project serves, and the co
 
 ## Dataset
 
-| Attribute | Details |
-|---|---|
-| **Source Name** | _e.g. World Bank, data.gov.in, Kaggle (raw only)_ |
-| **Direct Access Link** | _Paste the direct download or access URL_ |
-| **Row Count** | _Must be greater than 5,000_ |
-| **Column Count** | _Must be greater than 8 meaningful columns_ |
-| **Time Period Covered** | _e.g. Jan 2019 to Dec 2023_ |
-| **Format** | _e.g. CSV, JSON, Excel_ |
+| Attribute               | Details                                           |
+| ----------------------- | ------------------------------------------------- |
+| **Source Name**         | _e.g. World Bank, data.gov.in, Kaggle (raw only)_ |
+| **Direct Access Link**  | _Paste the direct download or access URL_         |
+| **Row Count**           | _Must be greater than 5,000_                      |
+| **Column Count**        | _Must be greater than 8 meaningful columns_       |
+| **Time Period Covered** | _e.g. Jan 2019 to Dec 2023_                       |
+| **Format**              | _e.g. CSV, JSON, Excel_                           |
 
 **Key Columns Used**
 
-| Column Name | Description | Role in Analysis |
-|---|---|---|
-| _column_1_ | _What it means_ | _Used for KPI / filter / segmentation_ |
-| _column_2_ | _What it means_ | _Used for KPI / filter / segmentation_ |
-| _column_3_ | _What it means_ | _Used for KPI / filter / segmentation_ |
-| _column_4_ | _What it means_ | _Used for KPI / filter / segmentation_ |
+| Column Name | Description     | Role in Analysis                       |
+| ----------- | --------------- | -------------------------------------- |
+| _column_1_  | _What it means_ | _Used for KPI / filter / segmentation_ |
+| _column_2_  | _What it means_ | _Used for KPI / filter / segmentation_ |
+| _column_3_  | _What it means_ | _Used for KPI / filter / segmentation_ |
+| _column_4_  | _What it means_ | _Used for KPI / filter / segmentation_ |
 
 For full column definitions, see [`docs/data_dictionary.md`](docs/data_dictionary.md).
 
@@ -99,11 +99,11 @@ For full column definitions, see [`docs/data_dictionary.md`](docs/data_dictionar
 
 ## KPI Framework
 
-| KPI | Definition | Formula / Computation |
-|---|---|---|
+| KPI                             | Definition                          | Formula / Computation                          |
+| ------------------------------- | ----------------------------------- | ---------------------------------------------- |
 | _e.g. Monthly Revenue Growth %_ | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
-| _e.g. Customer Churn Rate_ | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
-| _e.g. Repeat Purchase Rate_ | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
+| _e.g. Customer Churn Rate_      | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
+| _e.g. Repeat Purchase Rate_     | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
 
 Document KPI logic clearly in `notebooks/04_statistical_analysis.ipynb` and `notebooks/05_final_load_prep.ipynb`.
 
@@ -111,12 +111,12 @@ Document KPI logic clearly in `notebooks/04_statistical_analysis.ipynb` and `not
 
 ## Tableau Dashboard
 
-| Item | Details |
-|---|---|
-| **Dashboard URL** | _Paste Tableau Public link here_ |
-| **Executive View** | _Describe the high-level KPI summary view_ |
-| **Operational View** | _Describe the detailed drill-down view_ |
-| **Main Filters** | _List the interactive filters used_ |
+| Item                 | Details                                    |
+| -------------------- | ------------------------------------------ |
+| **Dashboard URL**    | _Paste Tableau Public link here_           |
+| **Executive View**   | _Describe the high-level KPI summary view_ |
+| **Operational View** | _Describe the detailed drill-down view_    |
+| **Main Filters**     | _List the interactive filters used_        |
 
 Store dashboard screenshots in [`tableau/screenshots/`](tableau/screenshots/) and document the public links in [`tableau/dashboard_links.md`](tableau/dashboard_links.md).
 
@@ -141,18 +141,18 @@ _List 8-12 major findings from the analysis, written in decision language. Each 
 
 _Provide 3-5 specific, actionable business recommendations, each linked directly to an insight above._
 
-| # | Insight | Recommendation | Expected Impact |
-|---|---|---|---|
-| 1 | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
-| 2 | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
-| 3 | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
+| #   | Insight                            | Recommendation                    | Expected Impact                         |
+| --- | ---------------------------------- | --------------------------------- | --------------------------------------- |
+| 1   | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
+| 2   | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
+| 3   | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
 
 ---
 
 ## Repository Structure
 
 ```text
-SectionName_TeamID_ProjectName/
+SectionA_Team04_RetailAnalysis/
 |
 |-- README.md
 |
@@ -204,13 +204,13 @@ The project follows a structured 7-step workflow:
 
 ## Tech Stack
 
-| Tool | Status | Purpose |
-|---|---|---|
-| Python + Jupyter Notebooks | Mandatory | ETL, cleaning, analysis, and KPI computation |
-| Google Colab | Supported | Cloud notebook execution environment |
-| Tableau Public | Mandatory | Dashboard design, publishing, and sharing |
-| GitHub | Mandatory | Version control, collaboration, contribution audit |
-| SQL | Optional | Initial data extraction only, if documented |
+| Tool                       | Status    | Purpose                                            |
+| -------------------------- | --------- | -------------------------------------------------- |
+| Python + Jupyter Notebooks | Mandatory | ETL, cleaning, analysis, and KPI computation       |
+| Google Colab               | Supported | Cloud notebook execution environment               |
+| Tableau Public             | Mandatory | Dashboard design, publishing, and sharing          |
+| GitHub                     | Mandatory | Version control, collaboration, contribution audit |
+| SQL                        | Optional  | Initial data extraction only, if documented        |
 
 **Recommended Python libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`
 
@@ -218,15 +218,15 @@ The project follows a structured 7-step workflow:
 
 ## Evaluation Rubric
 
-| Area | Marks | Focus |
-|---|---|---|
-| Problem Framing | 10 | Is the business question clear and well-scoped? |
-| Data Quality and ETL | 15 | Is the cleaning pipeline thorough and documented? |
-| Analysis Depth | 25 | Are statistical methods applied correctly with insight? |
-| Dashboard and Visualization | 20 | Is the Tableau dashboard interactive and decision-relevant? |
-| Business Recommendations | 20 | Are insights actionable and well-reasoned? |
-| Storytelling and Clarity | 10 | Is the presentation professional and coherent? |
-| **Total** | **100** | |
+| Area                        | Marks   | Focus                                                       |
+| --------------------------- | ------- | ----------------------------------------------------------- |
+| Problem Framing             | 10      | Is the business question clear and well-scoped?             |
+| Data Quality and ETL        | 15      | Is the cleaning pipeline thorough and documented?           |
+| Analysis Depth              | 25      | Are statistical methods applied correctly with insight?     |
+| Dashboard and Visualization | 20      | Is the Tableau dashboard interactive and decision-relevant? |
+| Business Recommendations    | 20      | Are insights actionable and well-reasoned?                  |
+| Storytelling and Clarity    | 10      | Is the presentation professional and coherent?              |
+| **Total**                   | **100** |                                                             |
 
 > Marks are awarded for analytical thinking and decision relevance, not chart quantity, visual decoration, or code length.
 
@@ -236,7 +236,7 @@ The project follows a structured 7-step workflow:
 
 **GitHub Repository**
 
-- [ ] Public repository created with the correct naming convention (`SectionName_TeamID_ProjectName`)
+- [ ] Public repository created with the correct naming convention (`SectionA_Team04_RetailAnalysis`)
 - [ ] All notebooks committed in `.ipynb` format
 - [ ] `data/raw/` contains the original, unedited dataset
 - [ ] `data/processed/` contains the cleaned pipeline output
@@ -279,20 +279,20 @@ The project follows a structured 7-step workflow:
 
 This table must match evidence in GitHub Insights, PR history, and committed files.
 
-| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
-|---|---|---|---|---|---|---|---|
-| _Member 1_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 2_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 3_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 4_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 5_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 6_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Team Member | Dataset and Sourcing | ETL and Cleaning  | EDA and Analysis  | Statistical Analysis | Tableau Dashboard | Report Writing    | PPT and Viva      |
+| ----------- | -------------------- | ----------------- | ----------------- | -------------------- | ----------------- | ----------------- | ----------------- |
+| _Member 1_  | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| _Member 2_  | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| _Member 3_  | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| _Member 4_  | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| _Member 5_  | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| _Member 6_  | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
 
-**Team Lead Name:** _____________________________
+**Team Lead Name:** **************\_**************
 
-**Date:** _______________
+**Date:** ******\_\_\_******
 
 ---
 
@@ -302,4 +302,4 @@ All analysis, code, and recommendations in this repository must be the original 
 
 ---
 
-*Newton School of Technology - Data Visualization & Analytics | Capstone 2*
+_Newton School of Technology - Data Visualization & Analytics | Capstone 2_
