@@ -121,15 +121,24 @@ SectionD_Team10_RetailAnalysis/
 │   ├── 03_eda_analysis.ipynb              # Univariate, bivariate, time analysis
 │   ├── 04_statistical_analysis.ipynb      # Hypothesis tests + effect sizes
 │   ├── 05_final_load_prep.ipynb           # Feature engineering + Tableau export
-│   └── etl_pipeline.ipynb                # Consolidated pipeline reference
+│   └── etl_pipeline.ipynb                 # Consolidated pipeline reference
+│ 
+├── scripts/
+│   ├── __init__.py                        # Package initializer
+│   └── etl_pipeline.py                    # Reusable ETL functions
 │
 ├── tableau/
-│   └── dashboard_links.md                 # Tableau Public links (3 dashboards)
+│   ├── dashboard_links.md                 # Tableau Public links (3 dashboards)
+│   └── screenshots/                       # Dashboard and chart images
+│
+├── reports/
+│   ├── project_report.pdf                 # Full capstone report
+│   └── presentation.pdf                   # Presentation deck
 │
 ├── docs/
-│   ├── project_report.pdf                 # Full capstone report
-│   └── Data_Cleaning_Log.docx             # Step-by-step cleaning documentation
+│   └── data_dictionary.md                 # Column definitions and metadata
 │
+├── requirements.txt                       # Python dependencies
 └── README.md
 ```
 
