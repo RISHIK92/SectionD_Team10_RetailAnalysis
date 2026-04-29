@@ -12,7 +12,7 @@ This document tracks each member's DVA-focused portfolio submission.
 | Anusha Prathapani | [View Portfolio](#) |
 | Shubham Aggarwal | [View Portfolio](https://shubham-60.github.io/DVA_Portfolio/) |
 | Utkarsh Jain | [View Portfolio](https://uj474.github.io/My-Portfolio/) |
-| Rishik Chowdary Karuturi | [View Portfolio](#) |
+| Rishik Chowdary Karuturi | [View Portfolio](https://rishik92.github.io/dva-portfolio/) |
 | Atanu Adhikari | [View Portfolio](https://techatanu.github.io/DVA_Portfolio/) |
 | Ananya Narang | [View Portfolio](https://data-analytics-portfolio-ananya-nar.vercel.app/) |
 
