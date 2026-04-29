@@ -9,7 +9,7 @@ This document tracks each member's DVA-focused portfolio submission.
 
 | Member Name | DVA Portfolio Live Link |
 |------------|------------------------|
-| Anusha Prathapani | [View Portfolio](#) |
+| Anusha Prathapani | [View Portfolio](https://anushaprathapani.github.io/DVA-Portfolio/) |
 | Shubham Aggarwal | [View Portfolio](https://shubham-60.github.io/DVA_Portfolio/) |
 | Utkarsh Jain | [View Portfolio](https://uj474.github.io/My-Portfolio/) |
 | Rishik Chowdary Karuturi | [View Portfolio](https://rishik92.github.io/dva-portfolio/) |
