@@ -138,6 +138,8 @@ SectionD_Team10_RetailAnalysis/
 ├── docs/
 │   └── data_dictionary.md                 # Column definitions and metadata
 │
+├── logs/
+│
 ├── requirements.txt                       # Python dependencies
 └── README.md
 ```
