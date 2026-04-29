@@ -13,7 +13,7 @@ This document tracks each member's DVA-focused portfolio submission.
 | Utkarsh Jain | [View Portfolio](#) | [View Code](#) |
 |  Rishik Chowdary Karuturi | [View Portfolio](#) | [View Code](#) |
 | Atanu Adhikari |[View Portfolio](#) | [View Code](#) |
-| Ananya Narang | [View Portfolio](#(https://mine-portfolio-2rr5c73y6-heheananyas-projects.vercel.app/)) | [View Code](#[text](https://github.com/HeheAnanya/Portfolio.git)) |
+| Ananya Narang | [View Portfolio](https://mine-portfolio-2rr5c73y6-heheananyas-projects.vercel.app/) | [View Code](https://github.com/HeheAnanya/Portfolio.git) |
 ---
 
 **Group Repo:** https://github.com/RISHIK92/SectionD_Team10_RetailAnalysis
