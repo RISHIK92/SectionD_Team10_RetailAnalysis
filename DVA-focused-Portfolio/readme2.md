@@ -14,7 +14,7 @@ This document tracks each member's DVA-focused portfolio submission.
 | Utkarsh Jain | [View Portfolio](#) |
 | Rishik Chowdary Karuturi | [View Portfolio](#) |
 | Atanu Adhikari | [View Portfolio](#) |
-| Ananya Narang | [View Portfolio](https://mine-portfolio-2rr5c73y6-heheananyas-projects.vercel.app) |
+| Ananya Narang | [View Portfolio]([https://github.com/HeheAnanya/Data_Analytics_Portfolio_AnanyaNarang.git](https://data-analytics-portfolio-ananya-nar.vercel.app/)) |
 
 ---
 
